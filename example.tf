@@ -21,8 +21,8 @@ provider "aws" {
 # shared_credentials_file = "/root/.aws/creds"
 version = "~> 1.5"
 profile = "default"
-#  access_key = "AKIAJEQ4SFIQTIUXBJZQ"
-#  secret_key = "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"
+#  access_key = "access key goes here"
+#  secret_key = "secret key goes here"
 #  region     = "us-east-1"
 }
 
